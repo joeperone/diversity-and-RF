@@ -7,6 +7,6 @@ Diversity is, deservedly, a growing point of emphasis in recruiting, especially 
 Because it is still early in this initiative, data to support this claim is sparse. Fortunately, we can borrow lessons from data science and machine learning to confirm this assertion.
 
 
-## Experience is our personal data
+## Experience is our personal data and we use it to make decisions
 
 
